@@ -12,12 +12,13 @@ module.exports = {
       colors: {
         brightRed: 'hsl(12, 88%, 59%)',
         brightRedLight: 'hsl(12, 80%, 95%)',
-        brightRedsUpLight: 'hsl(12, 88%, 95%)',
+        brightRedSupLight: 'hsl(12, 88%, 95%)',
         darkBlue: 'hsl(228, 39%, 23%)',
         darkGrayishBlue: 'hsl(227, 12%, 61%)',
-        veryDarkblue: 'hsl(233, 12%, 13%)',
+        veryDarkBlue: 'hsl(233, 12%, 13%)',
         veryPaleRed: 'hsl(13, 100%, 96%)',
         veryLightGray: 'hsl(0, 0%, 98%)',
+        NavyBlue: 'hsl(240, 100%, 25%)',
       }
     },
   },
